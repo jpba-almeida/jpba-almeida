@@ -1,4 +1,5 @@
 ## Ola!!! Eu sou o João Almeida
+***Sou um nerd entusiasta e apaixonado por tecnologia!!!***
  <div>
   <a href="https://github.com/jpba-almeida">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpba-almeida&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
