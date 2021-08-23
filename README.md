@@ -1,4 +1,4 @@
-## Ola!!! Eu sou o João Almeida
+## Ola!!! ME chamo João Almeida
 ***Sou um nerd entusiasta e apaixonado por tecnologia!!!***
  <div>
   <a href="https://github.com/jpba-almeida">
